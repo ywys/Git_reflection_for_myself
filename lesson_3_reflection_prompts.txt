@@ -12,7 +12,9 @@ If I coordinate with others, we may have some conflicts and it would be not very
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+Fork is to be used online (on github) to "copy" one repo to another one.
+Clone is to be used (mostly) from remote (such as github) to local to "copy" one repo to local.
+Branch is to be used at local to do some work.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
