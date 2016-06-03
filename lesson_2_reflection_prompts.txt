@@ -4,6 +4,14 @@ The new directories are used by git to store the metadata of files.
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+The staging area is different from working directory in the sense that it is
+only containing part of the whole working directory. It can be thought that only
+the files of interest are put into the staging area (at least for the inital
+stage).
+The staging area is different from repository in the sense that it is before the
+commit and it is only for the file that is changed (or added).
+I think it offers an intermediate step for the users to see what kind of change
+is planned to be committed to the respository.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
