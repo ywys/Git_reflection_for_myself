@@ -40,3 +40,8 @@ converge. Then we can understand better how each parts get to the final state.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+Pros are definitely related to the easiness of the work. "Everything works"
+would be a nice feeling.
+But it is not always possible to do automatic merging since the situation could
+be very complicated.
+Manual merging would be the final solution.
