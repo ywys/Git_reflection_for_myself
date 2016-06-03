@@ -7,7 +7,7 @@ If I want to collaborate with myself or if I want to work from more than one pla
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+If I coordinate with others, we may have some conflicts and it would be not very convenient to have automatic pull.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
