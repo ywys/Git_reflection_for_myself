@@ -27,6 +27,8 @@ By having a branch, e.g., bug fixes and feature development can be done
 parallelly.
 
 How do the diagrams help you visualize the branch structure?
+From the diagram, it can been seen that when and how the branch is created and
+what the relationship between different branches.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
