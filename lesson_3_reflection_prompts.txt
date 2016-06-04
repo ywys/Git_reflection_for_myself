@@ -30,4 +30,4 @@ It would be much harder.
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+If the master branch is the main branch for development, which means the feature on it should be reasonably stable, then it is making sense to work on a separate branch then later merge back. Working directly on master is convenient, but not very safe. 
